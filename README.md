@@ -35,3 +35,4 @@ g(x) = linapprox2(f, nodes, x)
 
 >>>>>>> Stashed changes
 Checking merge conflict on ECON 622 Sudipta.
+Again trying to check merge conflict- Aditi
