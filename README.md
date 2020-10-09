@@ -34,7 +34,7 @@ f(x) = x^2
 g(x) = linapprox2(f, nodes, x)
 
 >>>>>>> Stashed changes
-Checking merge conflict on ECON 622 Sudipta.
+Checking merge conflict on ECON 622 Sudipta by Aditi.
 # Again trying to check merge conflict- Aditi
 
 
