@@ -33,4 +33,5 @@ nodes = -1.0:0.5:1.0
 f(x) = x^2
 g(x) = linapprox2(f, nodes, x)
 
->>>>>>> Stashed changes
+>>>>>>> Stashed changes 
+@Sudipta Checking for merged conflict
